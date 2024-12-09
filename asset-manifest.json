@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18105f6f.css",
+    "main.js": "/static/js/main.d1bd7e5f.js",
+    "static/media/1.png": "/static/media/1.2377b299249eb39b0fcc.png",
+    "static/media/2.png": "/static/media/2.d546de5260cb0509c4cd.png",
+    "static/media/3.png": "/static/media/3.10f2f807a69ef9b329d5.png",
+    "static/media/9-lg.png": "/static/media/9-lg.fa0f205f1f1a8feb29ae.png",
+    "static/media/9.png": "/static/media/9.0e1d151e43ae7adc6453.png",
+    "static/media/7-lg.png": "/static/media/7-lg.72c221b8e11120700ad9.png",
+    "static/media/7.png": "/static/media/7.10f2f807a69ef9b329d5.png",
+    "static/media/4-lg.png": "/static/media/4-lg.8a47bd9a15dc6ce20131.png",
+    "static/media/4.png": "/static/media/4.29f2d265a8c64082613b.png",
+    "static/media/1-lg.png": "/static/media/1-lg.ea8724e4bba5190d914b.png",
+    "static/media/3-lg.png": "/static/media/3-lg.0a41ecb7101e943012a5.png",
+    "static/media/8-lg.png": "/static/media/8-lg.196473287dda752e4d54.png",
+    "static/media/8.png": "/static/media/8.2377b299249eb39b0fcc.png",
+    "static/media/6-lg.png": "/static/media/6-lg.1a4e0b813b0c215a9f83.png",
+    "static/media/6.png": "/static/media/6.59b124d50666f2fa28b4.png",
+    "static/media/5-lg.png": "/static/media/5-lg.27aa2b248581f34682bf.png",
+    "static/media/5.png": "/static/media/5.a17ae7fe87d661b13ca2.png",
+    "static/media/2-lg.png": "/static/media/2-lg.eddd5beeb3864c84c751.png",
+    "static/media/menu.png": "/static/media/menu.34e75f50db0df3423d7c.png",
+    "static/media/2.jpg": "/static/media/2.f4aceeff1aaa04a5eeef.jpg",
+    "static/media/1.jpg": "/static/media/1.dde2c3fd055ad6cc9157.jpg",
+    "static/media/3.jpg": "/static/media/3.1e7abf4fca863da7d8a7.jpg",
+    "static/media/room.jpg": "/static/media/room.5eb65c88a0218be7128c.jpg",
+    "static/media/logo-oak.svg": "/static/media/logo-oak.cd9f7a4e2986fc5fe78ecef4d11488b5.svg",
+    "index.html": "/index.html",
+    "main.18105f6f.css.map": "/static/css/main.18105f6f.css.map",
+    "main.d1bd7e5f.js.map": "/static/js/main.d1bd7e5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18105f6f.css",
+    "static/js/main.d1bd7e5f.js"
+  ]
+}
